@@ -14,4 +14,4 @@
 
 **Projects**
 + novsco.co
-  + A free & public VSCO profile viewer 
+  + ~~A free & public VSCO profile viewer~~ - DMCA Takedown'ed
