@@ -10,7 +10,7 @@ I also do some reverse engineering and bug hunting.
 ---
 ### Projects 
 + [collector-crypt-stats](https://ccstats.knutegil.dev)
-  + A tool developed to check the stats and ROI of wallets for [Collector Crypt](https://gacha.collectorcrypt.com/r/aahyvyiest9g)'s gacha
+  + A tool developed to check the stats and ROI of wallets for [Collector Crypt](https://gacha.collectorcrypt.com)'s gacha
 + [collector-crypt-tools](https://chromewebstore.google.com/detail/kbodaaillfmhbklckhjjhnobgcgklkgc)
   + A utility extension that adds quality of life tools and features to [Collector Crypt](https://collectorcrypt.com)'s web platform
 + novsco.co
