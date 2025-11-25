@@ -22,6 +22,7 @@ I also do some reverse engineering and bug hunting.
 + C#
 
 ### Technologies
++ Bun
 + ElysiaJS / Express.js
 + React.js
 + MongoDB
