@@ -9,6 +9,10 @@ I also do some reverse engineering and bug hunting.
 ##### [HOME](https://knutegil.dev) | [PROJECTS](https://projects.knutegil.dev) | [LINKEDIN](https://linkedin.com/in/knut-egil) | [X](https://x.com/knutegil_dev) 
 ---
 ### Projects 
++ [collector-crypt-gap-tracker](https://gap.knutegil.dev)
+  + A dashboard tracking and visualizing data for [Collector Crypt](https://gacha.collectorcrypt.com)'s gacha. Displays "gaps" between pulls of a specific tier, the stock/inventory of machines with value distributions as well as recent rewards from the machines. 
++ [rip-platform](https://rip.knutegil.dev)
+  + A platform built to have crowdfunded "pools" for opening of packs/gachapons for [Collector Crypt](https://gacha.collectorcrypt.com). Also allows rewards to be listed for a limited time on our on-site marketplace.
 + [collector-crypt-stats](https://ccstats.knutegil.dev)
   + A tool developed to check the stats and ROI of wallets for [Collector Crypt](https://gacha.collectorcrypt.com)'s gacha
 + [collector-crypt-tools](https://chromewebstore.google.com/detail/kbodaaillfmhbklckhjjhnobgcgklkgc)
